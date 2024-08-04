@@ -1,4 +1,4 @@
-# BiT-Residence-Placement-Competition-Score-Calculator-Python-Program
+# BDU-Residence-Placement-Competition-Score-Calculator-Python-Program
 # Overview
 This program is designed to streamline the process of calculating total points for applicants at Bahir Dar University (BDU). It efficiently determines points based on academic performance, job experience, research contributions, and family status, adhering to the university's Legislation and Residence administration guidelines.
 # Key Features
