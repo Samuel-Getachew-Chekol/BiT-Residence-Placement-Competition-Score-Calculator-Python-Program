@@ -1,9 +1,3 @@
-#"""
-applicants_name=input("Applicant's Full Name: ")
-campus=input('Enter Campus: ')
-id_no=input('Enter Id. Number: ')
-dept=input('Enter Department: ')
-#"""
 #The following function, called date_calculator(), calculates how many years a person served in the university and how
 #....many years in a certain position.
 def date_calculator():
