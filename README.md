@@ -16,3 +16,5 @@ The primary users of this program are academic staff at BDU involved in the appl
 4.	Creates a text file containing applicant details and calculated points, named after the user's name and ID number.
 # Contact
 gs.samuelg@gmail.com
+# Certification of Copyright available @
+https://media.licdn.com/dms/image/v2/D4E22AQEWKbwXy-Nkqg/feedshare-shrink_1280/feedshare-shrink_1280/0/1724922692422?e=1727913600&v=beta&t=Mv1rjKnZrWN-2-xmFrqh19TpwIYu1YSK53N7Cl92HBs
